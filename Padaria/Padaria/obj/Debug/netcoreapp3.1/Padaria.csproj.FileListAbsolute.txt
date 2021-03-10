@@ -1,0 +1,5 @@
+C:\Users\viiic\source\repos\Padaria\Padaria\obj\Debug\netcoreapp3.1\Padaria.csprojAssemblyReference.cache
+C:\Users\viiic\source\repos\Padaria\Padaria\obj\Debug\netcoreapp3.1\Padaria.AssemblyInfoInputs.cache
+C:\Users\viiic\source\repos\Padaria\Padaria\obj\Debug\netcoreapp3.1\Padaria.AssemblyInfo.cs
+C:\Users\viiic\source\repos\Padaria\Padaria\obj\Debug\netcoreapp3.1\Padaria.csproj.CoreCompileInputs.cache
+C:\Users\viiic\source\repos\Padaria\Padaria\obj\Debug\netcoreapp3.1\Padaria.MvcApplicationPartsAssemblyInfo.cache
